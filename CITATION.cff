@@ -8,5 +8,5 @@ authors:
 version: 1.0.0
 date-released: 2026-10-25   # update to the release date
 # doi: 10.5281/zenodo.XXXXXXX   # add after the Zenodo archive is created
-repository-code: "https://github.com/<your-username>/fs-kerr-invariants"
+repository-code: "https://github.com/<paulamimajumder>/fs-kerr-invariants"
 license: MIT
