@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for: Frenet-Serret invariants of timelike worldlines in Kerr spacetime"
+authors:
+  - family-names: Majumder
+    given-names: Paulami
+    affiliation: "Centre of Excellence in Space Sciences India, IISER Kolkata"
+version: 1.0.0
+date-released: 2026-10-25   # update to the release date
+# doi: 10.5281/zenodo.XXXXXXX   # add after the Zenodo archive is created
+repository-code: "https://github.com/<your-username>/fs-kerr-invariants"
+license: MIT
